@@ -41,7 +41,7 @@ python main.py
 - Console summary of test results
 - `audit_log.json` with structured evidence for review
 
-## Positioning
+## About Aethryx
 
 Aethryx is building technical AI governance and testing infrastructure for enterprise GenAI systems and AI agents, including:
 
